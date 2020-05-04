@@ -1,4 +1,4 @@
-### The singleton pattern in PHP
+## The singleton pattern in PHP
 When designing web applications, it often makes sense conceptually and architecturally to allow access to one and only one instance of a particular class. The singleton pattern enables us to do this.
 
 ##### Some key notes for  singleton pattern:
@@ -14,5 +14,5 @@ When designing web applications, it often makes sense conceptually and architect
 
 >A new instance is created via late static binding in the static creation method `getInstance()` with the keyword `static`. This allows the subclassing of the `class Singleton` in the example.
 
-### Reference
+## Reference
 * **PHP the rigt way** ([phptherightway.com](https://phptherightway.com/pages/Design-Patterns.html#singleton))
