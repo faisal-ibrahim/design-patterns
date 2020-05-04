@@ -1,7 +1,7 @@
 ### The singleton pattern in PHP
 When designing web applications, it often makes sense conceptually and architecturally to allow access to one and only one instance of a particular class. The singleton pattern enables us to do this.
 
-#####Some key notes for  singleton pattern:
+##### Some key notes for  singleton pattern:
 >A private constructor `__constructor()` is used to prevent the direct creation of objects from the class.
 
 >The expensive process is performed within the private constructor.
