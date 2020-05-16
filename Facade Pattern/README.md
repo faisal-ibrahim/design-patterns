@@ -1,0 +1,2 @@
+## Facade Pattern
+>A facade class enables us to call only one method instead of calling to many methods. By doing so, it simplifies the work with the system, and allows us to have a simpler and more convenient interface.
